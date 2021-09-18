@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swapnil-417
-- 👀 I’m interested in coding and analysis
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Data Science
 
 <!---
