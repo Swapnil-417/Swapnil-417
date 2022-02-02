@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swapnil-417
+- 👋 Hi, I’m Swapnil Patil
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Data Science
 
